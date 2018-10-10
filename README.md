@@ -1,6 +1,6 @@
 # HelloWorld
 Our first GitHub repository.
 
-Adding my own two cents.
+Adding my own four cents (inflation).
 
-I think I'm a clone now.
+I changed something in your REPO!
