@@ -1,6 +1,6 @@
 # HelloWorld
 Our first GitHub repository.
 
-Adding my own four cents (inflation).
+Adding my own six cents (inflation).
 
 I changed something in your REPO!
