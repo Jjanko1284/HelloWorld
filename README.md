@@ -1,2 +1,4 @@
 # HelloWorld
-Our first GitHub repository
+Our first GitHub repository.
+
+Adding my own two cents.
